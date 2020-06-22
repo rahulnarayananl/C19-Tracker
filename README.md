@@ -23,9 +23,7 @@ ScreenShots :
 
 <b>Backend Logic :</b> 
 
-1. In-App Update : Firebase is implmented for In-App Update where whenever the user opens the app the current version of app is checked with the latest version given in firebase database, and if its lower than that of the latest version then user will get an update dialog with an intent to browser with latest download link.
-
-2. Important Announcement Activity : the data is also fetched dynamically from firebase database. 
+1. Important Announcement Activity : The data is fetched dynamically from firebase database. 
 
 <b>Information Source :</b> 
 ----------------------------
